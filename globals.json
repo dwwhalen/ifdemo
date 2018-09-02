@@ -1,0 +1,19 @@
+{
+  "id": "424ae31c-88fd-4352-8070-c1ecb828e7c2",
+  "values": [
+    {
+      "value": "4301",
+      "key": "search_zip",
+      "enabled": true
+    },
+    {
+      "value": "5",
+      "key": "max_rows",
+      "enabled": true
+    }
+  ],
+  "name": "My Workspace Globals",
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2018-09-02T00:36:21.411Z",
+  "_postman_exported_using": "Postman/6.2.5"
+}
